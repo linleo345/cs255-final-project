@@ -1,0 +1,9 @@
+are we meeting the criteria for the project?
+
+code quality/comments
+
+suggestions
+
+clarify understanding of the data structure
+
+

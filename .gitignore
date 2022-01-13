@@ -1,0 +1,10 @@
+code/sampleTest
+code/main
+.vscode
+*/*.o
+code/finalproj
+code/test
+
+data/twitter_combined.txt
+
+#guys feel free to put whatever crap into gitignore to make your life easier
